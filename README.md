@@ -12,9 +12,9 @@ mongo安装请参考：http://www.runoob.com/mongodb/mongodb-window-install.html
 ## **1. 创建maven工程**
 
 首相创建maven工程，New project:
-![创建maven工程](http://img.blog.csdn.net/20170611224733012?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjQwNjE3Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![创建maven工程](https://raw.githubusercontent.com/wonderomg/SpringData-mongdb/master/images/create-1.png)
 
-![自行填写](http://img.blog.csdn.net/20170611224811981?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjQwNjE3Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![自行填写](https://raw.githubusercontent.com/wonderomg/SpringData-mongdb/master/images/create-2.png)
 
 这里不使用idea自带maven插件，改用下载好的3.5.0版maven；
 
@@ -32,15 +32,15 @@ mongo安装请参考：http://www.runoob.com/mongodb/mongodb-window-install.html
 </mirrors>
 ```
 
-![选择下好的本地maven3.5.0](http://img.blog.csdn.net/20170611224920836?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjQwNjE3Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![选择下好的本地maven3.5.0](https://raw.githubusercontent.com/wonderomg/SpringData-mongdb/master/images/create-3.png)
 
-![next](http://img.blog.csdn.net/20170611225003415?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjQwNjE3Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![next](https://raw.githubusercontent.com/wonderomg/SpringData-mongdb/master/images/create-4.png)
 
 项目结构如下图，手动创建相关文件夹及文件，并设置文件夹的对应属性：
 
-![工程目录](http://img.blog.csdn.net/20170611225032343?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjQwNjE3Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![工程目录](https://raw.githubusercontent.com/wonderomg/SpringData-mongdb/master/images/create-5.png)
 
-![目录结构](http://img.blog.csdn.net/20170611225052415?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjQwNjE3Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![目录结构](https://raw.githubusercontent.com/wonderomg/SpringData-mongdb/master/images/create-6.png)
 
 至此，maven工程创建完毕。
 
